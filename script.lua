@@ -1,6 +1,6 @@
 ------------------------------------------------------------------
 --  this is a free script and may not be used in any commercial	--
---  way without written permission from Halvhjearne				--
+--  way without written permission from Halvhjearne		--
 ------------------------------------------------------------------
 
 -- Not doing anything for AIs
